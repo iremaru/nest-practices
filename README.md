@@ -2,7 +2,7 @@
 
 ## 🏛️ Stack
 
-1. MongoDB
+1. PostgreSQL
 2. Docker
 3. Nest
 4. Typescript
